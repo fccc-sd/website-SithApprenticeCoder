@@ -1,0 +1,31 @@
+h1 {
+    color:darkblue;
+    text-align:center;
+    font: italic 2.5em/2em Arial, Helvetica, sans-serif
+}
+
+h2 {
+    color:darkred
+}
+
+h3 {
+    color:rgb(84, 48, 118);
+}
+
+h5 {
+    color:darkred
+}
+
+p {
+    color:darkslateblue
+}
+
+li {
+    color:rgb(4, 1, 156)
+}
+
+body {
+    background-color:rgb(147, 147, 147);
+    font-size: 1.5em;
+    font-weight: normal;
+}
