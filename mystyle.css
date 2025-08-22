@@ -4,16 +4,8 @@ h1 {
     font: italic 2.5em/2em Arial, Helvetica, sans-serif
 }
 
-h2 {
-    color:darkred
-}
-
 h3 {
     color:rgb(84, 48, 118);
-}
-
-h5 {
-    color:darkred
 }
 
 p {
@@ -35,3 +27,6 @@ strong {
     font-size: 0.75em;
 }
 
+h2, h5 {
+    color: darkred
+}
