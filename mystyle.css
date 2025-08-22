@@ -30,3 +30,8 @@ body {
     font-weight: normal;
 }
  
+strong {
+    color: rgb(74, 20, 97);
+    font-size: 0.75em;
+}
+
