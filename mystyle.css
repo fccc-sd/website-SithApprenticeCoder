@@ -1,11 +1,12 @@
-h1 {
+header {
     color:darkblue;
     text-align:center;
-    font: italic 2.5em/2em Arial, Helvetica, sans-serif
+    font: italic 1.25em Arial, Helvetica, sans-serif
 }
 
 h3 {
     color:rgb(84, 48, 118);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
@@ -29,4 +30,51 @@ strong {
 
 h2, h5 {
     color: darkred
+}
+
+img
+{
+    vertical-align: middle;
+}
+
+ul
+{
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+nav
+{
+    background-color: black;
+    line-height: 2em;
+    display: block;
+}
+
+nav li
+{
+    display: inline;
+    padding-right: 20vw;
+    list-style-type: none;
+}
+
+nav a:link
+{
+    color: rgb(17, 17, 138);
+    text-decoration: none;
+}
+
+nav a:visited
+{
+    color: rgb(17, 17, 138);
+}
+
+nav a:hover
+{
+    text-decoration: underline;
+}
+
+nav a:active
+{
+    color: purple;
+    text-decoration: underline;
 }
